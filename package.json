@@ -2,7 +2,7 @@
   "name": "robodex",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ckbball.github.io/rolodex",
+  "homepage": "https://ckbball.github.io/rolodex/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",

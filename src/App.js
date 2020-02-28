@@ -41,6 +41,14 @@ class App extends Component {
           hosted: "",
           description:
             "Flights API is a simple REST API that allows users to search for and book airline flights all around the world."
+        },
+        {
+          id: 5,
+          git_link: "https://github.com/ckbball/fs-open",
+          project_name: "Social network REST API",
+          hosted: "",
+          description:
+            "A REST API for a social network that allows users to follow other users and create and comment on posts."
         }
       ],
       links: [
